@@ -1,2 +1,2 @@
-# Experiment
-all project that i code with purpose of an experiment
+# University
+this repository contains codes I wrote in university as homework or training 
