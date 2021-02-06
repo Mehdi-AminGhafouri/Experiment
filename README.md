@@ -1,6 +1,6 @@
 Most of the project I have done at university
 ====================================
-!(https://lab.github.com/public/images/issue_tab.png)
+![issue tab](https://lab.github.com/public/images/issue_tab.png)
 
 Usage:
 ------
