@@ -3,8 +3,8 @@
 A simple fuzzy system that could help student for there project as a jump start for completing there project
 this system is a simple fuzzy system designed in matlab that give us the Speed base on Pressure and Temperature
 
-input data : Pressure and Temperature
-output data : Speed of the system
+> input data : Pressure and Temperature
+> output data : Speed of the system
 
 Verbal variables :
 
@@ -33,7 +33,9 @@ Need Matlab for Running the codes
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+--------
+* Origianl Author: Mehdi A.Ghafouri
+* https://github.com/Mehdi-AminGhafouri
+* https://www.linkedin.com/in/mehdi-a-ghafouri/
+* https://www.researchgate.net/profile/Mehdi_Aghafouri
 
