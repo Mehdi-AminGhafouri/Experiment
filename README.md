@@ -4,6 +4,7 @@ A simple fuzzy system that could help student for there project as a jump start 
 this system is a simple fuzzy system designed in matlab that give us the Speed base on Pressure and Temperature
 
 > input data : Pressure and Temperature
+
 > output data : Speed of the system
 
 Verbal variables :
