@@ -13,8 +13,8 @@ Verbal variables :
 
 > P = { Pressure , [low,mid,high] ,[0,300] , [ L:lowPressureFuzzySet , M:midPressureFuzzySet , H:highPressureFuzzySet ] }
 
-> S = { Speed , [veryLow,low,mid,high,veryHigh] ,[0,200] , 
-[ VL:verylowSpeedFuzzySet, Lo:lowSpeedFuzzySet , Mi:midSpeedFuzzySet , Hi:highSpeedFuzzySet ,VH:veryhighSpeedFuzzySet ] }
+> S = { Speed , [veryLow, low, mid, high, veryHigh] ,[0,200] , 
+[ VL : verylowSpeedFuzzySet, Lo : lowSpeedFuzzySet , Mi : midSpeedFuzzySet , Hi : highSpeedFuzzySet ,VH : veryhighSpeedFuzzySet ] }
 
 ## Getting Started
 
