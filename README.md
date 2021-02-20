@@ -3,7 +3,7 @@ this is a simple computer vision homework
 the goal is to create a chess board with in the code and plot it in matlab
 there are many algorithem that can draw a chess board its not a realy hard task but its a good start state for you to write your own version of it ^_^
 
-![branch tab](https://github.com/Mehdi-AminGhafouri/University/blob/main/branch.png)
+![branch tab](https://github.com/Mehdi-AminGhafouri/University/blob/chess_board/Chess.png)
 
 Help
 ------------
