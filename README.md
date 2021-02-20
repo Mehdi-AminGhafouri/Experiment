@@ -1,6 +1,6 @@
 Most of the project I have done at university
 ====================================
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
+![issue tab](https://drive.google.com/file/d/1dM2IRbvX2nRuC-xCj38hSAQBKiaUjwt-/view?usp=sharing)
 
 Usage:
 ------
