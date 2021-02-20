@@ -1,24 +1,14 @@
-Most of the project I have done at university
+this is a simple computer vision homework
 ====================================
-select the branch you looking for from top bar(Shown in the image below)
+the goal is to create a chess board with in the code and plot it in matlab
+there are many algorithem that can draw a chess board its not a realy hard task but its a good start state for you to write your own version of it ^_^
 
 ![branch tab](https://github.com/Mehdi-AminGhafouri/University/blob/main/branch.png)
 
-Usage:
-------
-use this projects as a samples and a start state for your project or homework
-
-
 Help
 ------------
-remember 3 tip
-
-first: do not copy this code as your homework
-
-second: understand the main structure of the code and write your own version from zero
-
-third: learn more and be successful
-
+you can download the code or copy it and execute it in matlab
+good luck :)
 
 Authors:
 --------
@@ -26,4 +16,3 @@ Authors:
 * https://github.com/Mehdi-AminGhafouri
 * https://www.linkedin.com/in/mehdi-a-ghafouri/
 * https://www.researchgate.net/profile/Mehdi_Aghafouri
-
