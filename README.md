@@ -1,6 +1,6 @@
 Most of the project I have done at university
 ====================================
-select the branch you lokking for from top bar(showed in down image)
+select the branch you lokking for from top bar(Shown in the image below)
 
 ![branch tab](https://github.com/Mehdi-AminGhafouri/University/blob/main/branch.png)
 
