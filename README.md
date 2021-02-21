@@ -1,23 +1,17 @@
-Most of the project I have done at university
+All Methodes of Edge Detection with matlab and python
 ====================================
-select the branch you looking for from top bar(Shown in the image below)
+there are many algorithm and masks that show us the image edges i try to code them and put them in one place both for matlab and python for all researcher and student as a refrence - i add other algorithm in future
 
-![branch tab](https://github.com/Mehdi-AminGhafouri/University/blob/main/branch.png)
+the basic image iu use id Lenna image
+
+![lenna](https://github.com/Mehdi-AminGhafouri/University/blob/edge_detection/Lena.png)
 
 Usage:
 ------
 use this projects as a samples and a start state for your project or homework
+you can run .m file with matlab and .py file with any python IDE
 
 
-Help
-------------
-remember 3 tip
-
-first: do not copy this code as your homework
-
-second: understand the main structure of the code and write your own version from zero
-
-third: learn more and be successful
 
 
 Authors:
