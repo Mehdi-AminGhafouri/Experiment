@@ -22,6 +22,7 @@ in sobel we should mix two output from each convolution in a special way
 
 the horizontal and vertical result :
 
+![two filter](https://github.com/Mehdi-AminGhafouri/University/blob/edge_detection/sobel/extra/result_mask.png)
 
 
 the final output result is:
