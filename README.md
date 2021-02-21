@@ -2,7 +2,7 @@ All Methodes of Edge Detection with matlab and python
 ====================================
 there are many algorithm and masks that show us the image edges i try to code them and put them in one place both for matlab and python for all researcher and student as a refrence - i add other algorithm in future
 
-the basic image i use id Lena image 512*125
+the basic image i use is Lena image (512*125)
 
 ![lena](https://github.com/Mehdi-AminGhafouri/University/blob/edge_detection/Lena.png)
 
