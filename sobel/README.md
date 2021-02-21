@@ -1,4 +1,4 @@
-Edge Detection with sobel convoution matlab
+Edge Detection with sobel - convoution - matlab
 ====================================
 there are many algorithm and masks that show us the image edges i try to code them and put them in one place both for matlab and python for all researcher and student as a refrence - i add other algorithm in future
 
