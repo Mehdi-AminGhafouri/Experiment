@@ -1,9 +1,13 @@
-Loading images from folder with data augmentation  _ label them from name of folder
+Loading images from folder with data augmentation  _ label them from folder name
 ====================================
 Loading data seems like an easy task, but sometimes loading data from within folders and labeling them takes a long time.
 With this code you can skip this section and focus more on the preprocessing and model training sections.
 Easier ways to load data are provided by different libraries, but if you want to take full control of them and all the changes are exactly what you want, it is better to write the code yourself or use this code. 
 
+-- load images
+-- label them
+-- data augmentation
+-- resize them with out loosing aspect ratio
 
 For ease of work, we have divided the codes into the following files
 - Code loading images from folders and labeling (Python)
