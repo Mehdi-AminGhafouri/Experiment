@@ -1,4 +1,4 @@
-Loading images from folder _ label them from name of folder
+Loading images from folder with data augmentation  _ label them from name of folder
 ====================================
 Loading data seems like an easy task, but sometimes loading data from within folders and labeling them takes a long time.
 With this code you can skip this section and focus more on the preprocessing and model training sections.
